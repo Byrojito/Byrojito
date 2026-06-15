@@ -1,78 +1,13 @@
 <div align="center">
 
-<!-- Custom SVG animated header - always loads, no external dependency -->
-<svg width="800" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0D1117"/>
-      <stop offset="100%" style="stop-color:#161B22"/>
-    </linearGradient>
-    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#A78BFA">
-        <animate attributeName="stop-color" values="#A78BFA;#60A5FA;#34D399;#A78BFA" dur="4s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" style="stop-color:#60A5FA">
-        <animate attributeName="stop-color" values="#60A5FA;#34D399;#A78BFA;#60A5FA" dur="4s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#A78BFA;stop-opacity:0.8"/>
-      <stop offset="50%" style="stop-color:#60A5FA;stop-opacity:0.6"/>
-      <stop offset="100%" style="stop-color:#34D399;stop-opacity:0.8"/>
-    </linearGradient>
-  </defs>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&height=70&lines=Felipe+Rojas+Diaz" alt="Name" />
 
-  <!-- Background -->
-  <rect width="800" height="160" fill="url(#bg)" rx="12"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=2000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&height=40&lines=Systems+Engineer+%C2%B7+Infrastructure+%C2%B7+Distributed+Systems;%F0%9F%87%A8%F0%9F%87%B4+Universidad+de+los+Andes+%E2%80%94+6to+Semestre" alt="Subtitle" />
 
-  <!-- Animated wave bottom -->
-  <path d="M0,130 Q100,110 200,125 Q300,140 400,120 Q500,100 600,118 Q700,136 800,115 L800,160 L0,160 Z" fill="url(#waveGrad)" opacity="0.3">
-    <animate attributeName="d" 
-      values="M0,130 Q100,110 200,125 Q300,140 400,120 Q500,100 600,118 Q700,136 800,115 L800,160 L0,160 Z;
-              M0,120 Q100,140 200,118 Q300,100 400,130 Q500,145 600,125 Q700,108 800,128 L800,160 L0,160 Z;
-              M0,130 Q100,110 200,125 Q300,140 400,120 Q500,100 600,118 Q700,136 800,115 L800,160 L0,160 Z"
-      dur="6s" repeatCount="indefinite"/>
-  </path>
-
-  <!-- Floating dots -->
-  <circle cx="50" cy="40" r="3" fill="#A78BFA" opacity="0.6">
-    <animate attributeName="cy" values="40;25;40" dur="3s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="750" cy="60" r="2" fill="#60A5FA" opacity="0.5">
-    <animate attributeName="cy" values="60;40;60" dur="4s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="700" cy="30" r="4" fill="#34D399" opacity="0.4">
-    <animate attributeName="cy" values="30;50;30" dur="5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="100" cy="90" r="2" fill="#F472B6" opacity="0.5">
-    <animate attributeName="cy" values="90;70;90" dur="3.5s" repeatCount="indefinite"/>
-  </circle>
-
-  <!-- Main title -->
-  <text x="400" y="65" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="34" font-weight="bold" fill="url(#textGrad)">
-    Felipe Rojas Diaz
-    <animate attributeName="opacity" values="0;1" dur="1s" fill="freeze"/>
-  </text>
-
-  <!-- Subtitle -->
-  <text x="400" y="95" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#8B949E" letter-spacing="2">
-    SYSTEMS ENGINEER  ·  INFRASTRUCTURE  ·  DISTRIBUTED SYSTEMS
-    <animate attributeName="opacity" values="0;0;1" dur="1.5s" fill="freeze"/>
-  </text>
-
-  <!-- Bottom tag -->
-  <text x="400" y="122" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#A78BFA" opacity="0.8">
-    🇨🇴  Universidad de los Andes  —  6to Semestre
-  </text>
-</svg>
-
-<!-- Typing animation - reliable service -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+systems+that+don%27t+break+under+pressure+%E2%9A%A1;Concurrency+nerd+%7C+Elixir+%26+OTP+enjoyer+%F0%9F%9F%A3;Microservices+%7C+Cloud+%7C+Low-level+magic+%F0%9F%94%A7;Actor+model+%7C+GenServers+%7C+Fault+tolerance+%F0%9F%A7%A0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=40&lines=Building+systems+that+don%27t+break+under+pressure+%E2%9A%A1;Concurrency+nerd+%7C+Elixir+%26+OTP+enjoyer+%F0%9F%9F%A3;Microservices+%7C+Cloud+%7C+Low-level+magic+%F0%9F%94%A7;Actor+model+%7C+GenServers+%7C+Fault+tolerance+%F0%9F%A7%A0" alt="Typing SVG" />
 
 <br/>
 
-<!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](AQUÍ_TU_LINK_DE_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@uniandes.edu.co)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Byrojito)
@@ -214,11 +149,11 @@ Latency benchmarking across microservice architectures and API Gateways on AWS. 
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Byrojito&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=Byrojito&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&border_radius=10" width="60%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Byrojito&bg_color=0D1117&color=A78BFA&line=60A5FA&point=34D399&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Byrojito&bg_color=0D1117&color=A78BFA&line=60A5FA&point=34D399&area=true&hide_border=true&radius=8" width="95%"/>
 
 </div>
 
@@ -226,29 +161,23 @@ Latency benchmarking across microservice architectures and API Gateways on AWS. 
 
 ## ⚡ A bit more about me
 
-```
-🎯  Current focus  →  Elixir/OTP + distributed systems design
-📚  Reading        →  "Designing Data-Intensive Applications" — Kleppmann
-🧩  Obsession      →  How concurrency actually works at the hardware level
-🏗️  Architecture   →  Microservices, event-driven, actor model
-☕  Fuel           →  Tinto colombiano a cualquier hora
-🌎  Based in       →  Bogotá, Colombia 🇨🇴
-```
+| | | |
+|---|---|---|
+| 🎯 | **Current focus** | Elixir/OTP + distributed systems design |
+| 📚 | **Reading** | *Designing Data-Intensive Applications* — Kleppmann |
+| 🧩 | **Obsession** | How concurrency actually works at the hardware level |
+| 🏗️ | **Architecture** | Microservices, event-driven, actor model |
+| ☕ | **Fuel** | Tinto colombiano a cualquier hora |
+| 🌎 | **Based in** | Bogotá, Colombia 🇨🇴 |
 
 ---
 
-<!-- Animated SVG snake contribution graph placeholder text -->
 <div align="center">
 
-<!-- Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=Byrojito&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Byrojito&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" width="95%"/>
 
 <br/><br/>
 
 *"Make it work, make it right, make it fast — in that order."*
-
-<br/>
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom_Up.svg)
 
 </div>
