@@ -172,12 +172,18 @@ Latency benchmarking across microservice architectures and API Gateways on AWS. 
 
 ---
 
+<img src="./matrix.svg" width="100%" alt="Matrix Rain Easter Egg" />
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Byrojito&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Byrojito&repo=ElixirPath&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=60A5FA" />
 
 <br/><br/>
 
+*"If you can't do great things, do small things in a great way."*
+
+<br/>
+
 *"Make it work, make it right, make it fast — in that order."*
 
-</div>
+<br/><br/>
