@@ -172,7 +172,7 @@ Latency benchmarking across microservice architectures and API Gateways on AWS. 
 
 ---
 
-<img src="./matrix.svg" width="100%" alt="Matrix Rain Easter Egg" />
+<img src="./matrix(2).svg" width="100%" alt="Matrix Rain Easter Egg" />
 
 <div align="center">
 
